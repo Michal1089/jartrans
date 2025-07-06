@@ -522,6 +522,7 @@ header button {
 .hobby .item {
     background-position: center;
     background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 .hobby .item:nth-of-type(1) {
