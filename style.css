@@ -27,7 +27,7 @@ header > * {
 header img {
     position: absolute;
     height: 50%;
-    bottom: 0;
+    bottom: 25vh;
     right: 0;
 }
 
